@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá! Eu sou o Fellype 👋
 
-<!--
-**llype-ENG/llype-ENG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Desenvolvedor Full Stack Java + Angular  
+☁️ Estudando AWS e Cloud Computing
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- Angular
+- Quarkus
+- SQL
+- Docker
+- Microsoft Azure
+- AWS
+
+## 📚 Atualmente estudando
+
+- AWS Cloud Practitioner
+- AWS Solutions Architect
+- Java
+- Arquitetura de Software
+
+## 💼 Experiência
+
+Atualmente atuo como desenvolvedor Full Stack, trabalhando com Java, Spring, Angular e tecnologias de Cloud.
+
+## 📫 Contato
+
+[LinkedIn](https://linkedin.com/in/fellype-moura-20742a30/)
