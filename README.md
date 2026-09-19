@@ -51,35 +51,11 @@ Também estou estudando **AWS**, com foco em Cloud Computing e certificações d
 
 ---
 
-## 🚀 Projetos
-
-Alguns dos projetos que venho desenvolvendo e estudando:
-
-- 🎬 **Aplicação de Filmes** — Angular + Java/Spring
-- 📚 **Livraria** — Clean Architecture + DDD
-- 💰 **Simulador de Crédito** — Spring Boot
-- 📅 **AgendaFácil** — Node.js + Express + SQLite
-- 🍅 **Pomodoro Widget** — Java + JavaFX
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llype-ENG&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llype-ENG&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
----
-
 ## 📫 Contato
 
 <p>
   <a href="https://linkedin.com/in/fellype-moura-20742a30a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/llype-ENG">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
